@@ -4,23 +4,6 @@ A Flutter project with implementation of all firebase libraries for Android and 
 
 ### Show some :heart: and star the repo to support the project
 
-## Watch Video Tutorials
-
-1.  [Firebase Setup | Firebase Auth | Google Sign-In](https://youtu.be/8M-Fa239Hy4)
-
-1.  [Firebase Cloud Firestore | CRUD | Realtime | Go Serverless](https://youtu.be/HzKdJekhXoc)
-
-1.  [Firebase Build Beautiful Wallpaper App P1](https://youtu.be/SrGP1BdkYpk)
-
-1.  [Flutter: Integrate Ads | Create Admob Account P2](https://youtu.be/qDa8nlLkMF8)
-
-1.  [Flutter: Integrate Analytics | Firebase Analytics | Handling Library Issues P3](https://youtu.be/SXuB9oa3t9A)
-
-1.  [Flutter: Prepare App For Release | App Signing | Create JKS P4](https://youtu.be/nGvPNG-f1-o)
-
-1.  [Flutter: Publish App to PlayStore | Fully Explained Demo P5](https://youtu.be/qpruGmff5Fw)
-
-1.  [Flutter Firebase MLKIT Tutorial](https://youtu.be/vT6gNFE0GBw)
 
 ### Screenshots
 
@@ -28,9 +11,7 @@ A Flutter project with implementation of all firebase libraries for Android and 
 <img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" />
 <img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
 
-### NOTE
 
-- This project is still under development.
 
 # Pull Requests
 
@@ -40,22 +21,15 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 2.  If its a feature, bugfix, or anything please only change code to what you specify.
 3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
 4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
-5.  Check for existing [issues](https://github.com/iampawan/FlutterWithFirebase/issues) first, before filing an issue.
-6.  Make sure you follow the set standard as all other projects in this repo do
-7.  Have fun!
+5.  Make sure you follow the set standard as all other projects in this repo do
+6.  Have fun!
 
 ### Created & Maintained By
-
-[Pawan Kumar](https://github.com/iampawan) ([@imthepk](https://www.twitter.com/imthepk)) ([YouTube](https://www.youtube.com/c/MTechViral))
-([Insta](https://www.instagram.com/codepur_ka_superhero))
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> - [PayPal](https://www.paypal.me/imthepk/)
+Shri Pranav
 
 # License
 
-    Copyright 2018 Pawan Kumar
+    Copyright 2018 Shri Pranav
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
